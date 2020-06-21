@@ -60,3 +60,15 @@ user name: admin
 e-mail: astrid.wang1229@gmail.com
 password: 123456
 
+```
+pip install django_taggit
+```
+Run ./manage.py migrate.
+
+## Custom template flters
+```
+pip install markdown
+```
+
+guest1
+whKrPi3kJMQCcX2
